@@ -1,8 +1,8 @@
 {
-  "name": "projetosaude",
+  "name": "setup-node-ts",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Ronald Carvalho Ribeiro de Araujo <ronald.araujo@serpro.gov.br>",
+  "author": "Ronald Carvalho Ribeiro de Araujo <ronald.ecomp@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --respawn --ignore-watch node_modules --no-notify src/server.ts",
