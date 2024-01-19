@@ -6,10 +6,10 @@ yarn init -D
 
 yarn add typescript -D
 
-### TSC
+#### TSC
 yarn tsc --init 
 
-### TSUP
+#### TSUP
 yarn add tsup -D
 
 ## Express
@@ -19,7 +19,7 @@ yarn add express
 yarn add @types/express -D
 
 ## Dev
-### ts-node-dev
+#### ts-node-dev
 yarn add ts-node-dev -D
 
 #### TSX
