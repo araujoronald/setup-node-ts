@@ -2,11 +2,15 @@
 
 yarn init -D
 
-## Typescript e TSC
+## Typescript, TSC, TSUP
 
 yarn add typescript -D
 
+### TSC
 yarn tsc --init 
+
+### TSUP
+yarn add tsup -D
 
 ## Express
 
@@ -20,9 +24,6 @@ yarn add ts-node-dev -D
 
 #### TSX
 yarn add tsx -D
-
-## TSUP
-yarn add tsup -D
 
 
 ## ESLint
